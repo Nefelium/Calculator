@@ -46,7 +46,7 @@ class ViewController: UIViewController {
         let number = sender.currentTitle!
         
         if stillTyping {
-            if (displayResultLabel.text?.characters.count)! < 20 {
+            if (displayResultLabel.text?.count)! < 20 {
                 displayResultLabel.text = displayResultLabel.text! + number
         }
         
