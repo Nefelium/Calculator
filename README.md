@@ -1,4 +1,4 @@
-Calculator on Swift 3
+Simple Calculator on Swift 4
 
 Basic calculator with memory functions
 
